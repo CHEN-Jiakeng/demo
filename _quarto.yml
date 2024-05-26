@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "李原的个人博客"
+  title: "陈加铿的个人博客"
   bread-crumbs: true
   back-to-top-navigation: true
   page-footer: "© Yuan Li 2024"
@@ -18,9 +18,9 @@ website:
     left:
       - text: "主页"
         file: home.qmd
-      - text: "博客"
+      - text: "计量基础"
         file: index.qmd
-      - text: "资料"
+      - text: "Stata"
         file: references.qmd
       - text: "个人简历"
         file: about.qmd
