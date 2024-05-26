@@ -1,5 +1,5 @@
 ---
-title: "demo"
+title: "主页"
 listing:
   contents: posts
   sort: "date desc"
