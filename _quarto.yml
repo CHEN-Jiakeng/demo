@@ -5,10 +5,10 @@ website:
   title: "陈加铿的个人博客"
   bread-crumbs: true
   back-to-top-navigation: true
-  page-footer: "© Yuan Li 2024"
+  page-footer: "© Jiakeng Chen 2024"
   reader-mode: true
   repo-url: https://github.com/CHEN-jiakeng/demo
-  repo-actions: [edit, issue]
+  repo-actions: [issue]
 
   navbar:
     background: primary
@@ -20,8 +20,8 @@ website:
         #file: home.qmd
       - text: "计量基础"
         file: index.qmd
-     # - text: "Stata"
-        #file: references.qmd
+      - text: "Stata"
+        file: stata.qmd
       - text: "个人简历"
         file: about.qmd
     right:
@@ -51,3 +51,6 @@ website:
       contents:
         - references.qmd
         # navigation items
+format:
+  html:
+    theme: cosmo
