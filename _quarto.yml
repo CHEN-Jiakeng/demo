@@ -16,12 +16,12 @@ website:
     pinned: true
     search: true
     left:
-      - text: "主页"
-        file: home.qmd
+     # - text: "主页"
+        #file: home.qmd
       - text: "计量基础"
         file: index.qmd
-      - text: "Stata"
-        file: references.qmd
+     # - text: "Stata"
+        #file: references.qmd
       - text: "个人简历"
         file: about.qmd
     right:
